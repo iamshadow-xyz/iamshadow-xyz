@@ -1,6 +1,6 @@
 const WhyAmIMakingShadowspace = () => {
   return (
-    <div className="mt-8 text-left py-4 px-4 max-w-2xl m-auto">
+    <div className="text-left py-4 px-10 max-w-2xl m-auto">
       <p>
         Hello, I am Shadow, and now I will tell you why I am building
         Shadowspace. It's not like this is the next big thing; I am starting
@@ -11,22 +11,26 @@ const WhyAmIMakingShadowspace = () => {
         course, some things will be next to impossible as of now, but I will try
         to solve as many problems as I can.
       </p>
+      <br />
       <p>
         My initial steps to make Shadowspace will be to create it as a blog
         website where I, or anyone, can share their thoughts, ideas, news, and
         experiences, gradually adding new features.
       </p>
+      <br />
       <p>
         As of my skill level, I only know React in a good, if not proficient
         way. But I will make the site in React with only client components, and
         all the initial blogs will be hardcoded. Gradually, I will add a
         database and automatic fetching.
       </p>
+      <br />
       <p>
         I have recently bought a second domain, "iamshadow.xyz," after
         "shadowspace.xyz" from GoDaddy, and I am planning to document this
         journey on my portfolio.
       </p>
+      <br />
       <p>I will write more blogs as I add more features…</p>
     </div>
   );

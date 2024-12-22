@@ -1,6 +1,6 @@
 const WhoAmI = () => {
   return (
-    <div className="mt-8 text-left py-4 px-4 max-w-2xl m-auto">
+    <div className="text-left py-4 px-10 max-w-2xl m-auto">
       <p>
         Hello, I am Shadow, and now I will tell you why I am building
         Shadowspace. It's not like this is the next big thing; I am starting

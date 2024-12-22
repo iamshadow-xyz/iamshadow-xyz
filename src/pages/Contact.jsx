@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <div className="py-4 px-8 max-w-2xl m-auto">
+    <div className="py-4 px-10 max-w-2xl m-auto">
       <div>
         <h1 className="text-left font-bold">You can find me on</h1>
         <div className="flex flex-col sm:flex-row gap-4 mt-4">

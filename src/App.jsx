@@ -9,6 +9,7 @@ import Skills from "./pages/Skills";
 import WhoAmI from "./blogs/who-am-i";
 import WhyAmIMakingShadowspace from "./blogs/why-am-i-making-shadowspace";
 import { Routes, Route } from "react-router-dom";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
             <Blog />
             <Projects />
             <Contact />
+            <Footer />
           </div>
         }
       />
