@@ -3,11 +3,11 @@ const WhyAmIMakingShadowspace = () => {
     <div className="text-left py-4 px-10 max-w-2xl m-auto">
       <p>
         Hello, I am Shadow, and now I will tell you why I am building
-        Shadowspace. It's not like this is the next big thing; I am starting
+        Shadowspace. It is not like this is the next big thing; I am starting
         Shadowspace as a personal hobby to test my skills as a software
         developer. But for now, whatever tool or service I use, I am going to
         make it within Shadowspace. I know, why build when someone already did
-        it for you? But I don't want to lock myself into their environment. Of
+        it for you? But I do not want to lock myself into their environment. Of
         course, some things will be next to impossible as of now, but I will try
         to solve as many problems as I can.
       </p>
@@ -26,9 +26,9 @@ const WhyAmIMakingShadowspace = () => {
       </p>
       <br />
       <p>
-        I have recently bought a second domain, "iamshadow.xyz," after
-        "shadowspace.xyz" from GoDaddy, and I am planning to document this
-        journey on my portfolio.
+        I have recently bought a second domain, iamshadow.xyz after
+        shadowspace.xyz from GoDaddy, and I am planning to document this journey
+        on my portfolio.
       </p>
       <br />
       <p>I will write more blogs as I add more features…</p>

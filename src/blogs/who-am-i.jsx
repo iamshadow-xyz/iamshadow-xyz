@@ -2,32 +2,46 @@ const WhoAmI = () => {
   return (
     <div className="text-left py-4 px-10 max-w-2xl m-auto">
       <p>
-        Hello, I am Shadow, and now I will tell you why I am building
-        Shadowspace. It's not like this is the next big thing; I am starting
-        Shadowspace as a personal hobby to test my skills as a software
-        developer. But for now, whatever tool or service I use, I am going to
-        make it within Shadowspace. I know, why build when someone already did
-        it for you? But I don't want to lock myself into their environment. Of
-        course, some things will be next to impossible as of now, but I will try
-        to solve as many problems as I can.
+        Hello, I am Shadow, a curious boy from a very remote town of india. I am
+        currently learning web development and building projects to improve my
+        skills. I am passionate about technology and programming and I am always
+        looking for new challenges and opportunities to learn and grow. I am
       </p>
+      <br />
       <p>
-        My initial steps to make Shadowspace will be to create it as a blog
-        website where I, or anyone, can share their thoughts, ideas, news, and
-        experiences, gradually adding new features.
+        Well i started learning web development in the beginning of 2023 in
+        february and i have learned a lot of things in this short period of
+        time. i wanted to build a simple birthday surprise website for my friend
+        but i did not the technical stuff like html css and all i just knew the
+        basics and the top view. and hopefully at that time i focused on making
+        YouTube Videos. thats why i knew about some AI tools Like ChatGPT and
+        that time i was watching tutorials from harvard YouTube Channel and Some
+        other YouTube Channels.
       </p>
+      <br />
       <p>
-        As of my skill level, I only know React in a good, if not proficient
-        way. But I will make the site in React with only client components, and
-        all the initial blogs will be hardcoded. Gradually, I will add a
-        database and automatic fetching.
+        i knew that i want to do something in tech and IT field but i did not
+        know what i want to do. so i started learning web development and i made
+        a lot of projects in this short period of time. lernt a lot of things
+        like
+        <ul className="list-disc my-4 ml-8">
+          <li>HTML/CSS/JavaScript</li>
+          <li>React</li>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>MongoDB</li>
+          <li>Next.js</li>
+          <li>Python</li>
+          <li>Flask</li>
+          <li>FastAPI</li>
+          <li>Machine Learning</li>
+          <li>Deep Learning</li>
+          <li>ChatGPT</li>
+          <li>OpenAI</li>
+          <li>and many more...</li>
+        </ul>
+        and i am still learning and building projects to improve my skills.
       </p>
-      <p>
-        I have recently bought a second domain, "iamshadow.xyz," after
-        "shadowspace.xyz" from GoDaddy, and I am planning to document this
-        journey on my portfolio.
-      </p>
-      <p>I will write more blogs as I add more features…</p>
     </div>
   );
 };
