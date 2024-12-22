@@ -1,6 +1,6 @@
 const Projects = () => {
   return (
-    <div className="text-left py-4 px-4 max-w-2xl m-auto">
+    <div className="text-left py-4 px-8 max-w-2xl m-auto">
       <div className="flex justify-between items-center">
         <h1 className="font-bold">Recent Projects</h1>
         <h1 className="font-bold">See all Projects</h1>

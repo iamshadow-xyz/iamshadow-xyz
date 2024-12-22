@@ -1,6 +1,6 @@
 const Skills = () => {
   return (
-    <div className="py-4 px-4 max-w-2xl m-auto">
+    <div className="py-4 px-8 max-w-2xl m-auto">
       <div className="flex justify-between items-center">
         <h1 className="font-bold">Skills</h1>
       </div>

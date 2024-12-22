@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div className="py-4 px-4 max-w-2xl m-auto">
+    <div className="py-4 px-8 max-w-2xl m-auto">
       <h1 className="font-bold text-left">About me</h1>
       <p className="text-left mt-2">
         Hi! i'm Pandit Pawar, a passionate Full-Stack Developer and aspiring
